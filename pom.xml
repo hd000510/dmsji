@@ -124,7 +124,7 @@
         <dependency>
             <groupId>com.github.oshi</groupId>
             <artifactId>oshi-core</artifactId>
-            <version>4.4.2</version>
+            <version>4.9.5</version>
         </dependency>
 
         <!--ip2region，这是根据ip查地址的工具，有兴趣自己可以了解-->
